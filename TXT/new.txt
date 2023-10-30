@@ -1,0 +1,7 @@
+Name : Eduard
+
+Age : 38
+
+Pets : Not
+
+Salary : 2000
